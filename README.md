@@ -1,2 +1,2 @@
 # JS-Projects
-Aplace for all of my Jam Session projects.
+A place for all of my Jam Session projects.
